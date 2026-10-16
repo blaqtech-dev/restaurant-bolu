@@ -49,7 +49,7 @@ const Features=()=>{
 </div>
 
 <Animated x={50} y={0}>
-    <img src='/assets/chef.png' alt='chef' className='w-full max-w-sm h-111 object-cover rounded-3xl'/>
+    <img src='/assets/chef.png' alt='chef' className='w-100 max-w-sm h-32 object-cover rounded-3xl'/>
 </Animated>
 </div>
 

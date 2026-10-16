@@ -5,7 +5,7 @@ import { ArrowRight } from 'lucide-react'
 
 const floatingDishes=[
      {
-        src:'/assets/dish1.jpeg',alt:'dish1', className:'top-6 left-4 md:top-10 md:left-[6%] lg:left-[10%]'
+        src:'/assets/dish10.jpeg',alt:'dish1', className:'top-6 left-4 md:top-10 md:left-[6%] lg:left-[10%]'
     },
      {
         src:'/assets/dish2.jpeg',alt:'dish2', className:'bottom-6 left-6 md:bottom-10 md:left-[10%] lg:left-[14%]'

@@ -34,7 +34,7 @@ const Dishes=()=>{
 transition={{type:'spring',stiffness:80, damping:15}}
 
 >
-<img src={dish.img} alt={dish.title} className='size-30 md:35 object-cover'/>
+<img src={dish.img} alt={dish.title} className='h-46 w-32 rounded-3xl md:35 object-cover'/>
 </motion.div>
 
 <h3 className='mt-5'>{dish.title}</h3>

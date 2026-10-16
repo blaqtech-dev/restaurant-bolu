@@ -106,7 +106,7 @@ export const bookingSteps = [
 export const bookingTestimonial = {
     rating: 5,
     quote: "We had an amazing evening with delicious food, excellent service, and a warm atmosphere. We'll definitely visit again.",
-    authorName: "Sofia Martinez",
+    authorName: "adelabu janet",
     authorImg: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200&h=200&auto=format&fit=crop"
 };
 
@@ -124,43 +124,43 @@ export const testimonials = [
     {
         rating: 5,
         review: "Every dish was fresh, flavorful, and beautifully presented. The service was outstanding, and we'll definitely be back again.",
-        name: "Aarav Sharma",
-        location: "Mumbai, India",
+        name: "adelabu janet",
+        location: "nigeria, akure",
         avatar: "/assets/user-2.jpg"
     },
     {
         rating: 5,
         review: "Amazing food, quick service, and a welcoming atmosphere. Every meal exceeded our expectations from start to finish.",
-        name: "Rohan Mehta",
-        location: "Bangalore, India",
+        name: "senator ife",
+        location: "nigeria,lagos",
         avatar: "/assets/user-1.jpg"
     },
     {
         rating: 5,
         review: "A wonderful dining experience with delicious food, friendly staff, and an atmosphere that made us feel right at home.",
-        name: "Emily Carter",
-        location: "London, UK",
+        name: "Abiola Oluwwaseun",
+        location: "nigeria,AAUA",
         avatar: "/assets/user-3.jpg"
     },
     {
         rating: 5,
         review: "The flavors were authentic, every dish was perfectly prepared, and the presentation made the experience even more enjoyable.",
-        name: "Daniel Kim",
-        location: "Seoul, South Korea",
+        name: "professor blessing",
+        location: "Nigeria, lagos",
         avatar: "/assets/user-4.jpg"
     },
     {
         rating: 5,
         review: "Beautiful presentation, fresh ingredients, and outstanding service. It's easily one of my favorite places to dine.",
-        name: "Sofia Martinez",
-        location: "Barcelona, Spain",
+        name: "corper boluwatife",
+        location: "nigeria,Ikare",
         avatar: "/assets/user-5.jpg"
     },
     {
         rating: 5,
         review: "Great food, attentive staff, and a cozy ambiance. Every visit has been memorable, and I highly recommend it.",
-        name: "Daniel Wong",
-        location: "Sydney, Australia",
+        name: "honorable bolu",
+        location: "Nigeria ,lift",
         avatar: "/assets/user-6.jpg"
     }
 ];

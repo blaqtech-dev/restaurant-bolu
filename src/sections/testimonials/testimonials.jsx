@@ -49,7 +49,7 @@ testimonials.map((testify,index)=>(
 <div className='flex items-center gap-4 mt-auto'>
     <img src={testify.avatar} alt={testify.name} className='size-11 rounded-full object-cover shrink-0'/>
     <div>
-        <p className='mb-1 font-medium leading-tight'>{testify.name}</p>
+        <p className='mb-1 font-medium leading-tight capitalize'>{testify.name}</p>
         <p className='text-zinc-700'>{testify.location}</p>
     </div>
 </div>

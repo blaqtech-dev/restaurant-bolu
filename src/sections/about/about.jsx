@@ -44,7 +44,7 @@ const About=()=>{
 <img src='/assets/dish7.jpeg' className='size-15 rounded-lg object-cover shrink-0' alt='location review '/>
 
 <div className='flex flex-col gap-2'>
-<p className='font-medium'>Bistro Royale, NY</p>
+<p className='font-medium capitalize'>bolu's restaurant, NIG</p>
 <a href='#'>View on Map</a>
 </div>
                 </Animated>
