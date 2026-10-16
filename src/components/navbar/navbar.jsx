@@ -24,8 +24,14 @@ return()=>window.removeEventListener('scroll',handleScroll)
 
     return(
         <>
-        <nav className={`fixed top-0 z-20 px-auto w-full transition-all dureation-300 bg-transparent 
-        ${scroll ? 'bg-white/70 backdrop-blur-md':'bg-transparent'}`}>
+        <nav
+  className={`fixed inset-x-0 top-0 z-20 w-full
+    px-4 sm:px-6 lg:px-8
+    overflow-x-clip
+    transition-all duration-300
+    ${scroll ? 'bg-white/70 backdrop-blur-md' : 'bg-transparent'}
+  `}
+>
 <div className='flex items-center justify-between font-medium py-4 mx-auto max-w-7xl'>
 
     {/* left navbar*/}

@@ -1,1 +1,31 @@
 @import "tailwindcss";
+
+/* Prevent unwanted page overflow */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+html,
+body {
+  overflow-x: clip;
+}
+
+body {
+  position: relative;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
